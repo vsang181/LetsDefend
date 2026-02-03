@@ -14,7 +14,7 @@ More advanced analysis may include examining email headers and SMTP metadata (ro
 
 The broader goal is twofold: protect sensitive data and systems by understanding adversary tactics, and strengthen the organization's overall email security posture through technical controls (filtering, authentication), user awareness training, and incident response procedures.
 
-## Table of Contents
+## Table of Contents
 
 1. [Introduction to Phishing](https://github.com/vsang181/LetsDefend/blob/main/Phishing%20Email%20Analysis/Introduction%20to%20Phishing.md)
 
