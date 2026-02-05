@@ -6,7 +6,7 @@ Effective incident handling minimizes the impact of security events, reduces rec
 
 ## Table of Contents
 
-1. Introduction to Incident Handling
+1. [Introduction to Incident Handling](https://github.com/vsang181/LetsDefend/blob/main/Incident%20Responder%20Path/Cybersecurity%20Incident%20Handling%20Guide/Introduction%20to%20Incident%20Handling.md)
 
 2. Incident Handling Steps
 
