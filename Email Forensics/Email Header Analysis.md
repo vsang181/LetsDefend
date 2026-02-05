@@ -90,8 +90,13 @@ To access an email's header information in O365:
 
 1. Open the email in question.
 2. Click the **three-dot menu** (`...`) at the top of the message or right-click the email.
+
+<img width="3564" height="1470" alt="image" src="https://github.com/user-attachments/assets/20485451-955a-4895-b11a-6ee54606a02b" />
+
 3. Select **View → View message source** (or **View message details** depending on the interface version).
 4. The section that opens will display all the details of the email, including full headers, body content, and attachments in raw format.
+
+<img width="1460" height="1064" alt="image" src="https://github.com/user-attachments/assets/c0ef9b29-4769-479c-8bf1-cbc5073336ea" />
 
 You can copy this information and paste it into a text file or header analysis tool for further examination.
 
@@ -103,6 +108,8 @@ Email header analysis is the process of examining and evaluating the collected d
 
 Each `Received` line needs to be analyzed because these lines contain the servers through which the email has passed and the timestamp details recorded on each server. This analysis gives an idea of the path the email took and the times at which it arrived at each hop.
 
+<img width="1490" height="624" alt="image" src="https://github.com/user-attachments/assets/919887b2-b741-4865-89d1-d0281ef2a775" />
+
 **What to look for:**
 
 - Read the `Received` headers from **bottom to top** to trace the origin.
@@ -113,6 +120,8 @@ Each `Received` line needs to be analyzed because these lines contain the server
 ### Verification of sender and recipient information
 
 Fields such as `From`, `To`, `Reply-To`, `Return-Path`, and `Cc` reveal the parties involved in the communication. These fields can be critical in identifying email attacks such as spoofing or phishing.
+
+<img width="1832" height="630" alt="image" src="https://github.com/user-attachments/assets/3f180813-5906-435e-9241-50e19518d197" />
 
 **What to look for:**
 
