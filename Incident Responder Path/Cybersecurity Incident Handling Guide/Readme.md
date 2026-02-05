@@ -12,7 +12,7 @@ Effective incident handling minimizes the impact of security events, reduces rec
 
 3. [Preparation](https://github.com/vsang181/LetsDefend/blob/main/Incident%20Responder%20Path/Cybersecurity%20Incident%20Handling%20Guide/Preparation.md)
 
-4. Detection and Analysis
+4. [Detection and Analysis](https://github.com/vsang181/LetsDefend/blob/main/Incident%20Responder%20Path/Cybersecurity%20Incident%20Handling%20Guide/Detection%20and%20Analysis.md)
 
 5. Containment, Eradication, and Recovery
 
