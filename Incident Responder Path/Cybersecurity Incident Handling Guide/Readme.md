@@ -16,4 +16,4 @@ Effective incident handling minimizes the impact of security events, reduces rec
 
 5. [Containment, Eradication, and Recovery](https://github.com/vsang181/LetsDefend/tree/main/Incident%20Responder%20Path/Cybersecurity%20Incident%20Handling%20Guide#:~:text=..-,Containment%2C%20Eradication%2C%20and%20Recovery.md,-Create%20Containment%2C%20Eradication)
 
-6. Post-Incident Activity
+6. [Post-Incident Activity](https://github.com/vsang181/LetsDefend/blob/main/Incident%20Responder%20Path/Cybersecurity%20Incident%20Handling%20Guide/Post-Incident%20Activity.md)
