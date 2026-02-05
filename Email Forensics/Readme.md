@@ -30,16 +30,16 @@ By the end of this documentation, you'll be proficient in handling email evidenc
 
 ## Table of Contents
 
-1. Introduction to Email Forensics
+1. [Introduction to Email Forensics](https://github.com/vsang181/LetsDefend/blob/main/Email%20Forensics/Introduction%20to%20Email%20Forensics.md)
 
-2. Understanding Email Protocols
+2. [Understanding Email Protocols](https://github.com/vsang181/LetsDefend/blob/main/Email%20Forensics/Understanding%20Email%20Protocols.md)
 
-3. Email Forensics Tools
+3. [Email Forensics Tools](https://github.com/vsang181/LetsDefend/blob/main/Email%20Forensics/Email%20Forensics%20Tools.md)
 
-4. Email Header Analysis
+4. [Email Header Analysis](https://github.com/vsang181/LetsDefend/blob/main/Email%20Forensics/Email%20Header%20Analysis.md)
 
-5. Email Body Analysis
+5. [Email Body Analysis](https://github.com/vsang181/LetsDefend/blob/main/Email%20Forensics/Email%20Body%20Analysis.md)
 
-6. Email Attachment Analysis
+6. [Email Attachment Analysis](https://github.com/vsang181/LetsDefend/blob/main/Email%20Forensics/Email%20Attachment%20Analysis.md)
 
-7. Identifying and Analyzing Email Threats
+7. [Identifying and Analyzing Email Threats](https://github.com/vsang181/LetsDefend/blob/main/Email%20Forensics/Identifying%20and%20Analyzing%20Email%20Threats.md)
